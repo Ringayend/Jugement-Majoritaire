@@ -1,0 +1,83 @@
+#header-logo
+{
+	margin-left: 1%;
+}
+
+.side-nav
+{
+	background-color: #4fc3f7;
+}
+
+#banner 
+{
+	padding-top: 2%;
+}
+
+#banner1
+{
+  padding-top: 1%;
+  background-color: rgba(200,216,220,0.9);
+}
+
+.button-signup
+{
+ padding-top: 10%;
+ padding-bottom: 10%;
+	
+}
+
+.central
+{
+ padding-top: 20%;
+ padding-bottom: 20%;
+  
+}
+
+#selector
+{
+width: 355px;
+ position: absolute;
+  top: 0px;
+   left: 0px;
+    opacity: 0.07845909572784501;
+     display: none;
+}
+
+
+
+.waves-effect.waves-bleu .waves-ripple{
+  background-color: #e1f5fe;
+}
+
+/* option color */
+   .input-field option {
+     color: #9e9e9e !important;
+   }
+
+  /* label color */
+   .input-field label {
+     color: #9e9e9e ;
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: #9e9e9e !important;
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #9e9e9e !important;
+     box-shadow: 0 1px 0 0 #9e9e9e !important;
+   }
+   /* valid color */
+   .input-field input[type=text].valid {
+     border-bottom: 1px solid #9e9e9e !important;
+     box-shadow: 0 1px 0 0 #9e9e9e !important;
+   }
+   /* invalid color */
+   .input-field input[type=text].invalid {
+     border-bottom: 1px solid #9e9e9e !important;
+     box-shadow: 0 1px 0 0 #9e9e9e !important;
+   }
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+     color: #9e9e9e !important;
+   }
